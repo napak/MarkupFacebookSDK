@@ -1,7 +1,7 @@
-MarkupFacebookSDK for ProcessWire
-=================================
+Facebook SDK inclusion for ProcessWire
+======================================
 
-This module is a simple helper to include the Facebook SDK as per the [asynchronous method]("https://developers.facebook.com/docs/reference/javascript/"). It will catch any calls to /channel.html, allowing easy setup optimised for cross domain issues on IE.
+MarkupFacebookSDK module is a simple markup module for [ProcessWire]("http://processwire.com") to include the Facebook SDK as per the [asynchronous method]("https://developers.facebook.com/docs/reference/javascript/"). It will catch any calls to /channel.html, allowing easy setup optimised for cross domain issues on IE.
 
 Usage
 -----
