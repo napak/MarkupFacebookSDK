@@ -12,8 +12,7 @@ In your template, you can include the JavaScript using the render() method.
 	
 	<?php
 	if($modules->get("FacebookMarkupSDK")) {
-		$fb = $modules->get("FacebookMarkupSDK");
-		echo $fb->render();
+		echo $modules->FacebookMarkupSDK->render();
 	}
 	?>
 	
